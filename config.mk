@@ -211,13 +211,20 @@ PRODUCT_PACKAGES += \
 # Icon Shapes
 PRODUCT_PACKAGES += \
     IconShapeCloudyOverlay \
+    IconShapeCloudyRoundedOverlay \
     IconShapeCylinderOverlay \
+    IconShapeCylinderRoundedOverlay \
     IconShapeFlowerOverlay \
+    IconShapeFlowerRoundedOverlay \
     IconShapeHeartOverlay \
+    IconShapeHeartRoundedOverlay \
     IconShapeHexagonOverlay \
+    IconShapeLeafRoundedOverlay \
+    IconShapePebbleRoundedOverlay \
     IconShapeLeafOverlay \
     IconShapeMeowOverlay \
     IconShapePebbleOverlay \
+    IconShapeRiceBallsOverlay \
     IconShapeRoundedHexagonOverlay \
     IconShapeRoundedRectOverlay \
     IconShapeSquareOverlay \
@@ -225,7 +232,10 @@ PRODUCT_PACKAGES += \
     IconShapeStretchedOverlay \
     IconShapeTaperedRectOverlay \
     IconShapeTeardropOverlay \
-    IconShapeVesselOverlay
+    IconShapeVesselOverlay \
+    DefaultButSquareOverlay \
+    DefaultButBouncyOverlay \
+    GoogleShapesOverlay
 
 # Navbar
 PRODUCT_PACKAGES += \
